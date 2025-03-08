@@ -1,0 +1,9 @@
+# Ignore compiled .class files
+*.class
+
+# Ignore IDE files (if you're using VS Code or IntelliJ, for example)
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
